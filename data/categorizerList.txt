@@ -1,0 +1,21 @@
+After categorizing and sorting the grocery items, I present to you the following list:
+
+**Produce:**
+• Apple
+• Orange
+• Tomato
+
+**Dairy:**
+1. Milk
+
+**Meat/Fish:**
+1. Fish
+2. Meat
+
+**Bakery:**
+ None (Note: Spagitty is not a bakery item, it's likely a type of pasta dish)
+
+**Beverages:**
+1. Black Pepper (note: black pepper is often used in beverages, but it can also be used as a spice)
+   * Alternative category: Spices
+2. Orange Juice

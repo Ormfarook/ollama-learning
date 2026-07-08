@@ -1,0 +1,9 @@
+apple 
+tomato
+orange
+milk 
+orange_juce
+spagitty
+meat
+fish
+black_peper

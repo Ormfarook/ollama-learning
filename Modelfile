@@ -1,0 +1,9 @@
+
+
+modelfile = """ 
+FROM llama3.2
+SYSTEM You are a very smart assistent who knows everything about oceans and you are very informative.
+PARAMETER temperature 0.1
+"""
+
+# ollama.create(model="orm_ocean", modelfile=modelfile)
